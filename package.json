@@ -1,0 +1,31 @@
+{
+  "name": "vjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/skwid138/vanilla-javascript-utilities",
+  "author": "Hunter Rancourt",
+  "description": "Vanilla Javascript helper and utiliy functions.",
+  "main": "utility.js",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/skwid138/vanilla-javascript-utilities.git"
+  },
+  "keywords": [
+	"vanilla",
+	"javascript",
+	"collection",
+	"functions",
+	"helpers",
+	"utilities",
+	"dom",
+	"manipulation",
+	"mutation"
+  ],
+  "license": "MIT",
+  "ignore": [
+	"**/.*",
+	"node_modules",
+	"bower_components",
+	"test",
+	"tests"
+  ]
+}
